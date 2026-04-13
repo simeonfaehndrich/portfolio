@@ -2,7 +2,7 @@
 layout: post
 title: "PLO 5"
 author: "Sim"
-categories: resources
+categories: plos
 tags: [documentation,sample]
 image: arctic-2.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: PLOs
+title: Program Learning Outcomes
 category: plos
 permalink: /plos
 ---

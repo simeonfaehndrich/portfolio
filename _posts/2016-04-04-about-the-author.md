@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Simeon"
-categories: facts
+categories: about
 tags: [sample]
 image: sim-portrait.jpg
 ---
