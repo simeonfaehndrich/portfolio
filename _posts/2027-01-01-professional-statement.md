@@ -2,8 +2,8 @@
 layout: post
 title: "Statement of professional identity"
 author: "Sim"
-categories: cv
-tags: [cv]
+categories: sample
+tags: [documentation,sample]
 image: cuba-1.jpg
 ---
 

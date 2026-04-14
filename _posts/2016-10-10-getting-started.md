@@ -1,278 +1,95 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "Career development plan"
+author: "Sim"
 categories: plos
 tags: [documentation,sample]
 image: city-1.jpg
 ---
 
-# Millennial
+## 1. Where I’m at
 
-Millennial is a minimalist Jekyll theme for running a simple, clean, content-focused publishing platform for your publication site or blog through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Millennial/). For a guide on how to deploy a Jekyll site using GitHub Pages, please check out [this article](https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages).
+My experience in the LIS world consists of the current MLIS, my co-op job last summer as a historical research assistant at First Peoples Law, to which I might add a directed study and a smattering of loose experiences in publicity volunteer work. I don’t have a strong sense of what I will do, or even definitive ideas, though I know I have been attracted to and motivated by historical digitization projects and work involving organizing small communities’ information towards political ends.
 
-If you like my work then please consider supporting me with [Ko-fi](https://ko-fi.com/paulle).
+Important experiences so far have been:
 
-![alt text](https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
+•	Python project for Qualicum Beach Museum
+•	Musqueam Resource Curation Project
+•	Historical research assistant at FPL
+•	Digitizing a Xwi7xwa scrapbook and doing provenance research
+•	Mapping the Salish Sea and historical ships’ logs
+•	Information Visualization and storytelling for BC’s kelp reforestation 
 
-## Notable features
+I most enjoyed
+•	Mastering digital tools, particularly being able to automate repetitive time-consuming labour
+•	Designing and graphic creativity
+•	Researching online and in archives for well-rounded contextual information 
+•	Working in small, motivated teams where everyone took initiative
+•	Creating beautiful user-friendly experiences
 
-* Compatible with GitHub Pages.
+These skills came to me “naturally”
+•	Organizing information in a consistent and understandable way
+•	Communicating and organizing meetings and timelines in group projects
+•	Taking risks creatively and politically
 
-* Support for Jekyll's built-in Sass/SCSS preprocessor and data files for making customizing easier.
+My strengths and assets include
+•	Digital literacy
+•	Open communication
+•	Historical perspective
+•	English and French fluency
+•	Trying new things, taking on new responsibility, pushing my comfort zone
+•	Attention to detail
+•	Ability to read and write
+•	Curiosity
+•	Dedication and commitment
+•	Interest in creating a more livable world, esp. vis-à-vis Indigenous-settler and other power relations
+•	Interest in history and how the current world has been/is being produced
 
-* [Google Analytics](https://www.google.com/analytics/) support.
+My values include
+•	Maintaining a good balance between work and the other parts of my life which bring me fulfillment
+•	Trying, and trying my best
+•	Commitment—if I say I will do something and when others rely on me
+•	Speaking up
+•	Keeping people and their lives central to any work
 
-* Commenting support powered by [Disqus](https://disqus.com/).
+When I think about my ideal job I feel neutral anticipation.
 
-* Optimized for search engines.
+My lack of motivation of exploring job postings and applying to different positions (and procrastination) might be one thing getting in the way of “achieving what I want”. Though realistically, its that personally I don’t invest much of my “identity” or “self-worth” or “hope of fulfilment” in work related things—it’s just something I must do in the world I happen to be in.
 
-* LaTeX support through [MathJax](https://www.mathjax.org/).
+## 2. Where I want to go
 
-## Table of Contents
+My ideal job looks like a place I can work 3-4 days a week, with flexibility about remote work and taking leaves of absences. I would like to work on a small team (3-5 folks), and be project-based, that is, work on one or two projects at a time that are time-limited. These projects would have a variety of aspects which would keep the work varied and interesting.
 
-1. [Introduction](#introduction)
-   1. [What is Jekyll](#what-is-jekyll)
-   2. [Never Used Jeykll Before?](#never-used-jekyll-before)
-2. [Installation](#installation)
-   1. [GitHub Pages Installation](#github-pages-installation)
-   2. [Local Installation](#local-installation)
-   3. [Directory Structure](#directory-structure)
-   4. [Starting From Scratch](#starting-from-scratch)
-3. [Configuration](#configuration)
-   1. [Sample Posts](#sample-posts)
-   2. [Site Variables](#site-variables)
-   3. [Adding Menu Pages](#adding-menu-pages)
-   4. [Posts](#posts)
-   5. [Layouts](#layouts)
-   6. [YAML Front Block Matter](#yaml-front-block-matter)
-4. [Features](#features)
-   1. [Design Considerations](#design-considerations)
-   2. [Disqus](#disqus)
-   3. [Google Analytics](#google-analytics)
-   4. [RSS Feeds](#rss-feeds)
-   5. [Social Media Icons](#social-media-icons)
-   6. [MathJax](#mathjax)
-   7. [Syntax Highlighting](#syntax-highlighting)
-   8. [Markdown](#markdown)
-5. [Everything Else](#everything-else)
-6. [Contributing](#Contributing)
-7. [Questions?](#questions)
-8. [Credits](#credits)
-9. [License](#license)
+The ideal work environment for me is clean, mostly distraction free, warm, light, with big window and natural light, and as quiet as possible. I also enjoy the flexibility of a sit/stand desk. I don’t need other folks around but do enjoy chatting as a mental break.
 
-## Introduction
+If I could do any job in the world, I would be a film director as it entails creative and technical work with many different elements (photography, acting, music, editing design, etc.) in collaborative team that has a workflow in discrete phases and a final product at which date the project is over.
 
-Millennial is a Jekyll theme that was built to be 100% compatible with [GitHub Pages](https://pages.github.com/). If you are unfamiliar with GitHub Pages, you can check out [their documentation](https://help.github.com/categories/github-pages-basics/) for more information. [Jonathan McGlone's guide](http://jmcglone.com/guides/github-pages/) on creating and hosting a personal site on GitHub is also a good resource.
+In one year, I want to be working on an interesting research/digital humanities project with/for a small community, at a walkable distance from my apartment in Quebec City. In five years, I want to care about my work and my team and feel secure in my capabilities.
 
-### What is Jekyll?
+My short-term goal is to find a living-wage job with some interest and good social impact, alongside solid colleagues. My long-term goals may include directing creative projects, playing a more active/direct role in advancing social politics, forming long-term work relationships, and deeply caring about my work and my team.
 
-Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Basically, Jekyll takes your page content along with template files and produces a complete website. For more information, visit the [official Jekyll site](https://jekyllrb.com/docs/home/) for their documentation. Codecademy also offers a great course on [how to deploy a Jekyll site](https://www.codecademy.com/learn/deploy-a-website) for complete beginners.
+Variety energizes me. History, critical theory and people I care about also energizes me. I like it best if I can sit down with a good chunk of time (around 2-4 hrs) and work on a single task at a time (e.g. reading). I’m also energized by having a final product output that is discrete.
 
-### Never Used Jekyll Before?
+I don’t know if there are any specific challenges I want to face (other than continual learning), but I hope that I can be a small part in making others than those historically and presently privileged in finding a place of belonging in our field. This is important to me because I firmly believe that the emancipation of each person is caught up in the liberation of all. As I become more aware of my own position of power and privilege, this increasingly becomes important.
 
-The beauty of hosting your website on GitHub is that you don't have to actually have Jekyll installed on your computer. Everything can be done through the GitHub code editor, with minimal knowledge of how to use Jekyll or the command line. All you have to do is add your posts to the `_posts` directory and edit the `_config.yml` file to change the site settings. With some rudimentary knowledge of HTML and CSS, you can even modify the site to your liking. This can all be done through the GitHub code editor, which acts like a content management system (CMS).
+Having too many aspirations and personal project ideas often gets in the way of achieving my goals. I also often get distracted in the weeds of “always-more-research,” finding more wormholes, more context, more possibly-useful-sources-of-information. I want to do less corporate report writing and more research, design, and public access projects. I want to do less administrative logisticating, and more reading. I want to see fewer small submissions and see more longer high-quality projects.
 
-## Installation
+My personal life is usually what I think about most, while my work enables that, though it remains an important structuring element. I value the ability to take time off from work for longer alpine expeditions, and social commitments are often more important to me than how much money I make. Even so my partner finds a full 40-hour week is a lot of time for me to be at work. I try to balance between showing up for my colleagues at work who rely on me (communicating, showing up on time, and putting in the time, etc.), as well as showing up for personal friends outside of work. I have clear boundaries and usually don’t work/respond to messages in the evenings or weekends. 
 
-### GitHub Pages Installation
+I do not feel like I have a calling in (work) life. If anything, to understand the human condition a little more.
 
-To start using Jekyll right away with GitHub Pages, [fork the Millennial repository on GitHub](https://github.com/LeNPaul/Millennial/fork). From there, you can rename your repository to 'USERNAME.github.io', where 'USERNAME' is your GitHub username, and edit the `settings.yml` file in the `_data` folder to your liking. Ensure that you have a branch named `gh-pages`. Your website should be ready immediately at 'http://USERNAME.github.io'. Note: if you are hosting several sites under the same GitHub username, then you will have to use [Project Pages instead of User Pages](https://help.github.com/articles/user-organization-and-project-pages/) - just change the repository name to something other than 'http://USERNAME.github.io'.
+## 3. How I might get there
 
-Head over to the `_posts` directory to view all the posts that are currently on the website, and to see examples of what post files generally look like. You can simply just duplicate the template post and start adding your own content.
+I can prepare myself by looking at the range of positions posted on job boards (both to have better expectations of the “job market,” and gain familiarity with job requirements). I can also prepare myself by creating and having a network of professionals already in the field or interested in it. Resources and tools that may be needed include professional association membership (Jane keeps repeating this to me), keeping up to date on technology developments, and enough financial security to explore the roles open to me. Some jobs in historical research may be looking for a doctoral thesis. I just found this website: [Job Announcements – Digital Humanities Now](https://digitalhumanitiesnow.org/category/news/job/).
 
-### Local Installation
+I would like to develop my skills with Python, and other backend digital humanities skills (e.g. relational databases). I am also keen to be better at working with open-source software hosted on servers like GitHub.
 
-For a full local installation of Millennial, [download your own copy of Millennial](https://github.com/LeNPaul/Millennial/archive/gh-pages.zip) and unzip it into it's own directory. From there, open up your favorite command line tool, enter `bundle install`, and then enter `jekyll serve`. Your site should be up and running locally at [http://localhost:4000](http://localhost:4000).
+I can commit to achieving my goals by committing to be continually learning and improving my skills, watching how the field evolves, being open to new experiences, making connections with others, taking opportunities when they present themselves, and giving back by working on progressive projects.
 
-### Directory Structure
+Barriers I will need to remove to make the above happen include overcoming my shyness, disregarding my distaste of applying to jobs, creating more specific goals and developing strong motivation to achieve said goals. I know I will have been successful when I have a fulfilling job which enables my personal life, and the work itself is confidence-building while remaining interesting through constant learning.
 
-If you are familiar with Jekyll, then the Millennial directory structure shouldn't be too difficult to navigate. The following some highlights of the differences you might notice between the default directory structure. More information on what these folders and files do can be found in the [Jekyll documentation site](https://jekyllrb.com/docs/structure/).
+## 4. Who may help
 
-```bash
-Millennial/
-├── _data                      # Data files
-|  └── settings.yml            # Theme settings and custom text
-├── _includes                  # Theme includes
-├── _layouts                   # Theme layouts (see below for details)
-├── _posts                     # Where all your posts will go
-├── assets                     # Style sheets and images are found here
-|  ├── css                     # Style sheets go here
-|  |  └── _sass                # Folder containing SCSS files
-|  |  └── main.scss            # Main SCSS file
-|  |  └── syntax.css           # Style sheet for code syntax highlighting
-|  └── img                     # Images go here
-├── pages                      # Category pages
-├── _config.yml                # Site build settings
-├── Gemfile                    # Ruby Gemfile for managing Jekyll plugins
-├── index.md                   # Home page
-├── LICENSE.md                 # License for this theme
-├── README.md                  # Includes all of the documentation for this theme
-└── rss-feed.xml               # Generates RSS 2.0 file which Jekyll points to
-```
+I may need to build relationships with the variety of folks working in the field of digital humanities. Sylvia at FPL and Maxime Gohier who oversees Transcrire la Nouvelle France are two solid connections working on interesting projects. I haven’t stayed in touch with Martin Holmes, who I talked to for the co-op networking requirement, but he could be a good person as the project manager and programmer for UVic’s Humanities Computing and Media Centre (and involved in TEI and The Endings Project). My friends and family can encourage me to stay focused by believing in me and keeping me accountable to at least try when I have an idea or desire to do something. I also enjoy collaborating on projects with friends, so I could also imagine working together on a portfolio project in the interim between school and work. My future supervisor can take on the role of slowly giving me new opportunities of challenging myself and taking on new responsibilities as I gain experience. I am not sure what communities of practice currently exist specifically for digital humanities, but they surely exist—TEI may be a worthwhile initiative to investigate further.
 
-### Starting From Scratch
-
-To completely start from scratch, simply delete all the files in the `_posts`, `assets/img`, and `pages` folder, and add your own content. You may also replace the `README.md` file with your own README. Everything in the `_data` folder and `_config.yml` file can be edited to suit your needs. You may also change the `favicon.ico` file to your own favicon.
-
-## Configuration
-
-### Sample Posts
-
-Visit the [the demo site](https://lenpaul.github.io/Millennial/) to find sample posts that show what different types of text formatting look like. You can find these posts in the `_posts` folder, which show what the best practices for setting up your own site are.
-
-### Site Variables
-
-To change site build settings, edit the `_config.yml` file found in the root of your repository, which you can tweak however you like. More information on configuration settings and plugins can be found on [the Jekyll documentation site](https://jekyllrb.com/docs/configuration/). This is also where you will be able to customize the title, description, and the author/owner of your site.
-
-If you are hosting your site on GitHub Pages, then committing a change to the `_config.yml` file will force a rebuild of your site with Jekyll. Any changes made should be viewable soon after. If you are hosting your site locally, then you must run `jekyll serve` again for the changes to take place.
-
-In the `settings.yml` file found in the `_data` folder, you will be able to customize your site settings, such as setting Disqus comments, Google Analytics, what shows up in your menu, and social media information.
-
-### Adding Menu Pages
-
-The menu pages are found in the `menu` folder in the root directory, and can be added to your menu in the `settings.yml` file.
-
-### Posts
-
-You will find example posts in your `_posts` directory. Go ahead and edit any post and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention of `YYYY-MM-DD-name-of-post.md` and includes the necessary front matter. Take a look at any sample post to get an idea about how it works. If you already have a website built with Jekyll, simply copy over your posts to migrate to Millennial.
-
-### Layouts
-
-There are two main layout options that are included with Millennial: post and page. Layouts are specified through the [YAML front block matter](https://jekyllrb.com/docs/frontmatter/). Any file that contains a YAML front block matter will be processed by Jekyll. For example:
-
-```
----
-layout: post
-title: "Example Post"
----
-```
-
-Examples of what posts looks like can be found in the `_posts` directory, which includes this post you are reading right now. Posts are the basic blog post layout, which includes a header image, post content, author name, date published, social media sharing links, and related posts.
-
-Pages are essentially the post layout without any of the extra features of the posts layout. An example of what pages look like can be found at the [documentation page](https://lenpaul.github.io/Millennial/pages/documentation.html).
-
-In addition to the two main layout options above, there are also custom layouts that have been created for the [home page](https://lenpaul.github.io/Millennial/) and the [contacts page](https://lenpaul.github.io/Millennial/pages/contact.html). These are simply just page layouts with some [Liquid template code](https://shopify.github.io/liquid/). Check out the `index.html` file in the root directory for what the code looks like.
-
-### YAML Front Block Matter
-
-The recommended YAML front block is:
-
-```
----
-layout:
-title:
-author:
-categories:
-tags: []
-image:
----
-```
-
-`layout` specifies which layout to use, `title` is the page or post title, `categories` can be used to better organize your posts, `tags` are used when generating related posts based on the topic of the post, and `image` specifies which images to use. Have a look at some posts in the `_posts` directory to see how these variables are set.
-
-## Features
-
-### Design Considerations
-
-Millennial was designed to be a minimalist theme in order for the focus to remain on your content. For example, links are signified mainly through an underline text-decoration, in order to maximize the perceived affordance of clickability (I originally just wanted to make the links a darker shade of grey).
-
-### Disqus
-
-Millennial supports comments at the end of posts through [Disqus](https://disqus.com/). In order to activate Disqus commenting, set `disqus.comments` to true in the `_data/settings.yml` file. If you do not have a Disqus account already, you will have to set one up, and create a profile for your website. You will be given a `disqus_shortname` that will be used to generate the appropriate comments sections for your site. More information on [how to set up Disqus](http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/).
-
-### Google Analytics
-
-It is possible to track your site statistics through [Google Analytics](https://www.google.com/analytics/). Similar to Disqus, you will have to create an account for Google Analytics, and enter the correct Google ID for your site under `google-ID` in the `settings.yml` file. More information on [how to set up Google Analytics](https://michaelsoolee.com/google-analytics-jekyll/).
-
-### RSS Feeds
-
-Atom is supported by default through [jekyll-feed](https://github.com/jekyll/jekyll-feed). With jekyll-feed, you can set configuration variables such as 'title', 'description', and 'author', in the `_config.yml` file.
-
-RSS 2.0 is also supported through [RSS auto-discovery](http://www.rssboard.org/rss-autodiscovery). The `rss-feed.xml` file (based on the template found at [jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds)) that the feed path points to when using RSS 2.0 is automatically generated based on the appropriate configuration variables found in `_data/settings.yml`.
-
-To use RSS 2.0, ensure the following is done:
-
-* Uncomment the last two lines in the `_config.yml` file.
-
-* In `_data/settings.yml`, under 'social', comment out the rss-square that points to `feed.xml`, and uncomment the rss-square that points to `rss-feed.xml`.
-
-* In `_includes/head.html`, comment out `{% feed_meta %}` and uncomment the line under the RSS 2.0 comment.
-
-### Social Media Icons
-
-All social media icons are courtesy of [Font Awesome](http://fontawesome.io/). You can change which icons appear, as well as the account that they link to, in the `settings.yml` file in the `_data` folder.
-
-### MathJax
-
-Millennial comes out of the box with [MathJax](https://www.mathjax.org/), which allows you to display mathematical equations in your posts through the use of [LaTeX](http://www.andy-roberts.net/writing/latex/mathematics_1).
-
-### Syntax Highlighting
-
-Millennial provides syntax highlighting through [fenced code blocks](https://help.github.com/articles/creating-and-highlighting-code-blocks/). Syntax highlighting allows you to display source code in different colors and fonts depending on what programming language is being displayed. You can find the full list of supported programming languages [here](https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers). Another option is to embed your code through [Gist](https://en.support.wordpress.com/gist/).
-
-### Markdown
-
-As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the [Markdown syntax](https://guides.github.com/features/mastering-markdown/). Examples of these text formatting features can be seen below. You can find this post in the `_posts` directory as well as the `README.md` file.
-
-## Everything Else
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
-## Contributing
-
-If you would like to make a feature request, or report a bug or typo in the documentation, then please [submit a GitHub issue](https://github.com/LeNPaul/Millennial/issues/new). If you would like to make a contribution, then feel free to [submit a pull request](https://help.github.com/articles/about-pull-requests/) - as a bonus, I will credit all contributors below! If this is your first pull request, it may be helpful to read up on the [GitHub Flow](https://guides.github.com/introduction/flow/) first.
-
-Millennial has been designed as a base for users to customize and fit to their own unique needs. Please keep this in mind when requesting features and/or submitting pull requests. Some examples of changes that I would love to see are things that would make the site easier to use, or better ways of doing things. Please avoid changes that do not benefit the majority of users.
-
-## Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
-
-## Credits
-
-### Creator
-
-#### Paul Le
-
-* [www.lenpaul.com](http://lenpaul.com)
-
-* [Twitter](https://twitter.com/paululele)
-
-* [GitHub](https://github.com/LeNPaul)
-
-### Contributors
-
-* [b-morawiec](https://github.com/b-morawiec)
-
-* [JainVikas](https://github.com/JainVikas)
-
-* [mschaeffner](https://github.com/mschaeffner)
-
-* [cfe316](https://github.com/cfe316)
-
-* [JeremyGonzales](https://github.com/JeremyGonzales)
-
-### Icons + Demo Images
-
-* [Death to Stock](https://deathtothestockphoto.com/)
-
-* [Font Awesome](http://fontawesome.io/)
-
-### Other
-
-* [Jekyll](https://jekyllrb.com/)
-
-* [Free Code Camp](https://www.freecodecamp.org)
-
-* [Khan Academy](https://www.khanacademy.org/)
-
-## License
-
-Open sourced under the [MIT license](https://github.com/LeNPaul/Millennial/blob/gh-pages/LICENSE.md).
+My SMART Goal: *Submit my resume and a cover letter to two jobs on the Digital Humanities site (or other) each month from February to May 2026. Success will mean having honed my cover letter writing skills, learnt about the types of positions and skills required, and at least I tried my best to connect with a placement.*
