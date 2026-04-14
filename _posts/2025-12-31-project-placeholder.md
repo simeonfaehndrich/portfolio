@@ -4,7 +4,7 @@ title: "Ideally I would have organized by project rather than PLO"
 author: "Sim"
 categories: projects
 tags: [cv]
-image: arctic-2.jpg
+image: project.jpg
 ---
 
 ## This is a placeholder

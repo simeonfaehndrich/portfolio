@@ -2,9 +2,9 @@
 layout: post
 title: "Career development plan"
 author: "Sim"
-categories: plos
+categories: about
 tags: [documentation,sample]
-image: city-1.jpg
+image: career.jpg
 ---
 
 ## 1. Where I’m at
