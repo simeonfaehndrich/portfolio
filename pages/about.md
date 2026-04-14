@@ -12,4 +12,8 @@ I'd rather just have
 
 but instead I've got to have this rambling `revised version of component 1a`.
 
-<a href="pdfs/assignment-1a.pdf" class="image fit"><img src="img/cuba-1.jpg" alt=""></a>
+[Statement of professional identity](https://simeonfaehndrich.github.io/portfolio/professional-statement)
+
+[Career development plan](https://simeonfaehndrich.github.io/portfolio/career-plan)
+
+[Information on copyright and permissions](https://simeonfaehndrich.github.io/portfolio/copyleft)

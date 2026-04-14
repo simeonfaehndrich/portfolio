@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact
 ---
 
-me me me
+Find me by using the email icon on the upper right.
