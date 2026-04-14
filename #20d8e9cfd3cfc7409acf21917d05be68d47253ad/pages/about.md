@@ -10,7 +10,7 @@ I'd rather just have
 
 *trois raisons pourquoi*
 
-but instead I've got to have this rambling `revised version of component 1a`.
+but instead I've got to have this rambling `revised version of component 1a`:
 
 [Statement of professional identity](https://simeonfaehndrich.github.io/portfolio/professional-statement)
 
