@@ -2,8 +2,8 @@
 layout: post
 title: "About the Author"
 author: "Simeon"
-categories: about
-tags: [sample]
+categories: cv
+tags: [cv]
 image: sim-portrait.jpg
 ---
 

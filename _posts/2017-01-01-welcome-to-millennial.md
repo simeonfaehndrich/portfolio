@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to Millennial!"
 author: "Paul Le"
 categories: documentation
-tags: [documentation,sample]
+tags: [plos,project]
 image: cuba-1.jpg
 ---
 
