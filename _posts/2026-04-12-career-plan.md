@@ -14,42 +14,71 @@ My experience in the LIS world consists of the current MLIS, my co-op job last s
 Important experiences so far have been:
 
 •	Python project for Qualicum Beach Museum
+
 •	Musqueam Resource Curation Project
+
 •	Historical research assistant at FPL
+
 •	Digitizing a Xwi7xwa scrapbook and doing provenance research
+
 •	Mapping the Salish Sea and historical ships’ logs
+
 •	Information Visualization and storytelling for BC’s kelp reforestation 
 
 I most enjoyed
+
 •	Mastering digital tools, particularly being able to automate repetitive time-consuming labour
+
 •	Designing and graphic creativity
+
 •	Researching online and in archives for well-rounded contextual information 
+
 •	Working in small, motivated teams where everyone took initiative
+
 •	Creating beautiful user-friendly experiences
 
 These skills came to me “naturally”
+
 •	Organizing information in a consistent and understandable way
+
 •	Communicating and organizing meetings and timelines in group projects
+
 •	Taking risks creatively and politically
 
 My strengths and assets include
+
 •	Digital literacy
+
 •	Open communication
+
 •	Historical perspective
+
 •	English and French fluency
+
 •	Trying new things, taking on new responsibility, pushing my comfort zone
+
 •	Attention to detail
+
 •	Ability to read and write
+
 •	Curiosity
+
 •	Dedication and commitment
+
 •	Interest in creating a more livable world, esp. vis-à-vis Indigenous-settler and other power relations
+
 •	Interest in history and how the current world has been/is being produced
 
 My values include
+
 •	Maintaining a good balance between work and the other parts of my life which bring me fulfillment
+
 •	Trying, and trying my best
+
 •	Commitment—if I say I will do something and when others rely on me
+
 •	Speaking up
+
 •	Keeping people and their lives central to any work
 
 When I think about my ideal job I feel neutral anticipation.
